@@ -164,3 +164,5 @@ INSERT INTO depense_rattachement_admin (Institution_Ministere, LFR_2024, LFR_202
 ('Haute Cour de Justice', 3.7, 3.5);
 
 
+INSERT INTO deficit_budgetaire (deficits, LFR_2024, LFR_2025) VALUES
+('Déficit', 3642.2, NULL);
